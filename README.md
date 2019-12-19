@@ -1,5 +1,5 @@
 # CYOA
 
-## The purpose of this project is to test our skills in github
+## Welcome to the home page press the link below to get straight to the game.
 
-### [Game Page](home.md)
+### [Click Home Page](home.md)
