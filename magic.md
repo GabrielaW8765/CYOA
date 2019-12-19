@@ -2,8 +2,8 @@
 
 ## What would you learn to use 
 
-### [Fire](Fire.md)
+### [Fire](fire.md)
 
 or 
 
-### [Water](Water.md)
+### [Water](water.md)
