@@ -2,4 +2,4 @@
 
 ## You end up winning the spar fight and finished for the day!
 
-### Want to play again for a diferrent ending? Click on the link to go back: [Home Page](home.md)
+### Want to play again for a different ending? Click on the link to go back: [Home Page](home.md)
