@@ -4,6 +4,7 @@
 
 ### [Fire](fire.md)
 ![Fire-Bending](Fire Bending.jpg)
+
 or 
 
 ### [Water](water.md)
