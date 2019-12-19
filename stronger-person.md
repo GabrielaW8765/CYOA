@@ -2,4 +2,4 @@
 
 ## You ended up getting badly hurt and have to go to home.
 
-### Want to try try again: [Home Page](home.pg)
+### Want to try try again: [Home Page](home.md)
