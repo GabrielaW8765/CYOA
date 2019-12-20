@@ -8,4 +8,4 @@
 or 
 
 ### [Water](water.md)
-### [Water](Water-bending.jpg)
+### ![Water](Water-bending.jpg)
